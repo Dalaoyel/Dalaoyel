@@ -1,4 +1,4 @@
-<img align="right" src="https://count.getloli.com/get/@:Dalaoyel?theme=rule34">
+#### 欢迎访问，您是第<img align="middle" src="https://count.getloli.com/get/@:Dalaoyel?theme=rule34">名访客
 
 ## 算法工程师—夜冷兮
 
@@ -26,14 +26,10 @@
 <a href="https://pytorch.org/"><code><img height="20" src="./images/pytorch.png"></code></a>
 
 ### 开源项目
-
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Dalaoyel&repo=create_ring_text_and_position)](https://github.com/Dalaoyel-ty/create_ring_text_and_position)
 <br><br><br>
-
 ### Github 活跃度
-
-[![](https://activity-graph.herokuapp.com/graph?username=Dalaoyel&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Dalaoyel's github stats](https://github-readme-stats.vercel.app/api?username=Dalaoyel&show_icons=true&theme=vue)
-
+![Dalaoyel's github stats](https://github-readme-stats.vercel.app/api?username=Dalaoyel&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dalaoyel&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dalaoyel&layout=compact&langs_count=6)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dalaoyel&layout=compact&langs_count=6) -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dalaoyel&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
