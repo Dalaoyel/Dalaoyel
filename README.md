@@ -1,4 +1,4 @@
-#### 欢迎访问，您是第<img align="middle" src="https://count.getloli.com/get/@:Dalaoyel?theme=rule34">名访客
+#### 欢迎！，您是第<img align="middle" src="https://count.getloli.com/get/@:Dalaoyel?theme=rule34">名访客
 
 ## 算法工程师—夜冷兮
 
@@ -30,6 +30,6 @@
 <br><br><br>
 ### Github 活跃度
 ![Dalaoyel's github stats](https://github-readme-stats.vercel.app/api?username=Dalaoyel&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dalaoyel&langs_count=6)
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dalaoyel&layout=compact&langs_count=6) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dalaoyel&langs_count=6)-->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dalaoyel&layout=compact&langs_count=6)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dalaoyel&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
