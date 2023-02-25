@@ -4,7 +4,7 @@
 
 热爱编程、热爱技术。工作经验1年。喜欢做一些有趣的事。
 <!-- ### **社交主页：** -->
- <img align="right" alt="GIF" src="./images/code.gif" width="370" height="400" />
+ <img align="right" alt="GIF" src="./images/code.gif" width="370" height="370" />
 <!-- -   <a href="https://juejin.cn/user/1214304985296439/posts"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：掘金优秀作者，发表了 30 篇技术文章，15万阅读。 -->
 
 ### **技术栈:**
