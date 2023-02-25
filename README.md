@@ -24,10 +24,10 @@
 <a href="https://go.dev/"><code><img height="20" src="./images/golang.png"></code></a> -->
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
 <a href="https://pytorch.org/"><code><img height="20" src="./images/pytorch.png"></code></a>
+<a href="https://www.python.org/"><code><img height="20" src="./images/python.png"></code></a>
 
-### 开源项目
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Dalaoyel&repo=create_ring_text_and_position)](https://github.com/Dalaoyel-ty/create_ring_text_and_position)
-<br><br><br>
+<!-- ### 开源项目
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Dalaoyel&repo=create_ring_text_and_position)](https://github.com/Dalaoyel-ty/create_ring_text_and_position) -->
 ### Github 活跃度
 ![Dalaoyel's github stats](https://github-readme-stats.vercel.app/api?username=Dalaoyel&show_icons=true&theme=transparent)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dalaoyel&langs_count=6)-->
